@@ -2,7 +2,7 @@
   "name": "angular-language-picker",
   "version": "0.0.0",
   "description": "Angular Language Picker",
-  "main": "lib/main",
+  "main": "dist",
   "keywords": [
     "angular",
     "language",
