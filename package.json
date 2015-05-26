@@ -1,0 +1,28 @@
+{
+  "name": "angular-language-picker",
+  "version": "0.0.0",
+  "description": "Angular Language Picker",
+  "main": "lib/main",
+  "keywords": [
+    "angular",
+    "language",
+    "picker"
+  ],
+  "dependencies": {
+    "flag-sprites": ""
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "./scripts/build"
+  },
+  "author": "João Afonso Martins",
+  "license": "MIT",
+  "homepage": "https://github.com/joaoafrmartins/angular-language-picker",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/angular-language-picker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/angular-language-picker/issues"
+  }
+}

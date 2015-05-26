@@ -1,0 +1,30 @@
+// flag-sprites
+
+@import "./node_modules/flag-sprites/less/flag-sprites.less";
+
+div.language-picker-container {
+
+  width: auto;
+  display: inline-block;
+  float: left;
+
+  span {
+    float: left;
+    padding-right: 0.375em;
+  }
+
+  ul.language-picker {
+    float: left;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    li {
+      display: inline;
+      div.flag {
+        cursor: pointer;
+        margin-right: 0.25em;
+      }
+    }
+  }
+
+}
